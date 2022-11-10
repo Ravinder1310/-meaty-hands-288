@@ -1,0 +1,247 @@
+{
+    "slider":[
+        {
+          "watch1": "https://www.zee5.com/web-series/details/tripling-season-3-watch-all-episodes-of-tripling-3-web-series-zee5/0-6-4z5230436",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/app_cover/1920x770cd5550fd6fe64ed19f73339697501913a1ebe2567d824021883c08f193544046.jpg",
+          "title": "Tripling - Season 3",
+          "watch2": "https://www.zee5.com/myaccount/subscription",
+          "noSelect": "Buy Plan"
+        },
+        {
+          "watch1": "https://www.zee5.com/movies/details/raksha-bandhan/0-0-1z5228525",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/app_cover/1920x7701789cd01c98a4b098ff87b399b61530c3e52cc15ff174f4689cc1ebefe5b40ff.jpg",
+          "title": "Raksha Bandhan",
+          "watch2": "https://www.zee5.com/myaccount/subscription",
+          "noSelect": "Buy Plan"
+        },
+        {
+          "watch1": "https://www.zee5.com/movies/details/bai-ji-kuttange/0-0-1z5246084",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246084/app_cover/1920x7706643570fad7d4b018eb8ee595ee8f66a.jpg",
+          "title": "Bai Ji Kuttange",
+          "watch2": "https://www.zee5.com/myaccount/subscription",
+          "noSelect": "Buy Plan"
+        },
+        {
+          "watch1": "https://www.zee5.com/movies/details/tadka/0-0-1z5246147",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246147/app_cover/1920x7703c6105c0047c4e98848e930ff18b4e38.jpg",
+          "title": "Tadka",
+          "watch2": "https://www.zee5.com/myaccount/subscription",
+          "noSelect": "Buy Plan"
+        },
+        {
+          "watch1": "https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-6-366/app_cover/1920x770017822e83c8c4f2f95aac896902b71be.jpg",
+          "title": "Kundali Bhagya",
+          "watch2": "",
+          "noSelect": ""
+        },
+        {
+          "watch1": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-6-3392/app_cover/1920x7707680c95e70a24006bd090c775c8000f5.jpg",
+          "title": "Bhagya Lakshmi",
+          "watch2": "",
+          "noSelect": ""
+        },
+        {
+          "watch1": "https://www.zee5.com/movies/details/karthikeya-2-hindi/0-0-1z5227565",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227565/app_cover/1920x7704ce388d5a6e74dac8ad9255657da588f.jpg",
+          "title": "Karthikeya 2 (Hindi)",
+          "watch2": "https://www.zee5.com/myaccount/subscription",
+          "noSelect": "Buy Plan"
+        }
+       ],
+    "trending":[
+        {
+          "watch2": "https://www.zee5.com/movies/details/bai-ji-kuttange/0-0-1z5246084",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246084/portrait/1920x7706643570fad7d4b018eb8ee595ee8f66a.jpg",
+          "title": "Bai Ji Kuttange",
+          "duration": "2h 5m",
+          "genre1": "Action",
+          "genre2": "Comedy"
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/tripling-season-3-watch-all-episodes-of-tripling-3-web-series-zee5/0-6-4z5230436",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/portrait/1920x770cd5550fd6fe64ed19f73339697501913a1ebe2567d824021883c08f193544046.jpg",
+          "title": "Tripling - Season 3",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/karthikeya-2-(hindi)/0-0-1z5227565",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227565/portrait/1920x7704ce388d5a6e74dac8ad9255657da588f.jpg",
+          "title": "Karthikeya 2 (Hindi)",
+          "duration": "2h 17m",
+          "genre1": "Action",
+          "genre2": "Adventure"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/khuda-haafiz-chapter-2:-agni-pariksha/0-0-1z5206274",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770485283887ce04c66a91f3e5dc0e20747.jpg",
+          "title": "Khuda Haafiz Chapter 2: Agni Pariksha",
+          "duration": "2h 19m",
+          "genre1": "Action",
+          "genre2": "Crime"
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/mukhbir-the-story-of-a-spy/0-6-4z5199975",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5199975/portrait/1920x77017b071bf12e24de89ab2650e35568fae.jpg",
+          "title": "Mukhbir - The Story of a Spy",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/rrr/0-0-1z5145092",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5145092/portrait/1920x7705ce54e56eefd4b6985dc7f6e1593dffdf8a1b6bc4ede474fa16848ae0ace8d67.jpg",
+          "title": "RRR",
+          "duration": "3h 4m",
+          "genre1": "Action",
+          "genre2": "Period Drama"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/tadka/0-0-1z5246147",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246147/portrait/1920x7703c6105c0047c4e98848e930ff18b4e38.jpg",
+          "title": "Tadka",
+          "duration": "1h 55m",
+          "genre1": "Comedy",
+          "genre2": "Romance"
+        },
+        {
+          "watch2": "https://www.zee5.com/collections/world-hits-free-dubbed-movies/0-8-3z5231124",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-8-3z5231124/portrait/zee5worldhitsdepth1920x770071020225904fcf2de6d48d88d128c99472a20ca.jpg",
+          "title": "World Hits | Free Dubbed Movies",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x7706e8d8d70922c434c94dd09c14ccc5d5b.jpg",
+          "title": "Rangbaaz: Darr Ki Rajneeti",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/raksha-bandhan/0-0-1z5228525",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x7701789cd01c98a4b098ff87b399b61530c3e52cc15ff174f4689cc1ebefe5b40ff.jpg",
+          "title": "Raksha Bandhan",
+          "duration": "1h 45m",
+          "genre1": "Comedy",
+          "genre2": "Drama"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/country-mafia/0-6-4z5246228",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5246228/portrait/1920x7701011d29d676a47fc943ad2ffe787b6eb.jpg",
+          "title": "Country Mafia",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/sohreyan-da-pind-aa-gaya/0-0-1z5214578",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214578/portrait/1920x770ce9968e4715c472c997f38c6678eaa1add1e74908c4f48c6a8df01580bd15052.jpg",
+          "title": "Sohreyan Da Pind Aa Gaya",
+          "duration": "2h 5m",
+          "genre1": "Romance",
+          "genre2": "Drama"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/atithi-bhooto-bhava/0-0-1z5218775",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5218775/portrait/1920x770ab45821481a141239d00c3de12f85fd1.jpg",
+          "title": "Atithi Bhooto Bhava",
+          "duration": "1h 53m",
+          "genre1": "Romance",
+          "genre2": "Comedy"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/tripling-season-1-and-2/0-6-3350",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3350/portrait/1920x77031b43eb9134e46499438d2714cb338d40d8cb8af8c5d4f1a82daaf12926dc133.jpg",
+          "title": "Tripling - Season 1 and 2",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/spider-man:-no-way-home-the-extended-version/0-0-1z5234572",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234572/portrait/1920x7703636d7977b034f10a5def35c95ba9242.jpg",
+          "title": "Spider-Man: No Way Home The Extended Version",
+          "duration": "2h 29m",
+          "genre1": "Adventure",
+          "genre2": "Fantasy"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/jurassic-world-dominion/0-0-1z5214599",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214599/portrait/1920x770be7ef3576c2b46ac8bf91788e1076c5f.jpg",
+          "title": "Jurassic World Dominion",
+          "duration": "2h 20m",
+          "genre1": "Sci-Fi",
+          "genre2": "Action"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/bullet-train/0-0-1z5214627",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214627/portrait/1920x770da10e51d95a74d62bce2f30739c831fa.jpg",
+          "title": "Bullet Train",
+          "duration": "2h 1m",
+          "genre1": "Action",
+          "genre2": "Comedy"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/taut/0-0-1z5234600",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234600/portrait/1920x770958346c1cb57407384670c37d19727ae.jpg",
+          "title": "Taut",
+          "duration": "1h 54m",
+          "genre1": "Action",
+          "genre2": "Drama"
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/duranga/0-6-4z5193948",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5193948/portrait/1920x7704ba850de7a8a410cb16fa2d7468d3e77.jpg",
+          "title": "Duranga",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/janhit-mein-jaari-/0-0-1z5177236",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x77038551f46e9924100b57bd36b1739fe87.jpg",
+          "title": "Janhit Mein Jaari",
+          "duration": "2h 21m",
+          "genre1": "Comedy",
+          "genre2": "Drama"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/rashtra-kavach-om/0-0-1z5191648",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5191648/portrait/1920x77015755573326f485eb9b2ad856c296abd.jpg",
+          "title": "Rashtra Kavach Om",
+          "duration": "2h 7m",
+          "genre1": "Action",
+          "genre2": "Thriller"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/venom:-let-there-be-carnage/0-0-1z5210238",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5191648/portrait/1920x77015755573326f485eb9b2ad856c296abd.jpg",
+          "title": "Venom: Let There Be Carnage",
+          "duration": "1h 33m",
+          "genre1": "Sci-Fi",
+          "genre2": "Action"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/minions:-the-rise-of-gru/0-0-1z5226610",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5226610/portrait/1920x7709e36e0e7f6c84b4a96289b0f321c5d43.jpg",
+          "title": "Minions: The Rise of Gru",
+          "duration": "1h 23m",
+          "genre1": "Animation",
+          "genre2": "Adventure"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/spider-man:-no-way-home/0-0-1z5129922",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5129922/portrait/1920x7707193cf3b9c41480ca9f67c210504a936.jpg",
+          "title": "Spider-Man: No Way Home",
+          "duration": "2h 19m",
+          "genre1": "Adventure",
+          "genre2": "Fantasy"
+        }
+       ]
+}
