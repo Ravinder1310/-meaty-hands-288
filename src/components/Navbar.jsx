@@ -42,6 +42,7 @@ export default function Navbar(){
   // const [scrollBehavior, setScrollBehavior] = React.useState('inside')
 
   const btnRef = React.useRef(null)
+  
 
     return (
         <>
@@ -122,8 +123,9 @@ export default function Navbar(){
              </ModalContent>
            </Modal>
            </Box>
-            
-            <Button border={'1px solid white'} bgColor='transparent' color={'white'} padding='22px 25px'>Login</Button>
+            <Box border={'1px solid white'} padding='7px 15px' fontSize={'20px'} borderRadius='10px'>
+            <Link style={style} to='/login'>Login</Link>
+            </Box>
             <Button bgColor='#673ab7' border={'transparent'} color='white' padding='23px 15px' fontSize={'22px'}>
               <Image width={'32px'} marginRight='5px' h='26px' src='https://media-private.canva.com/v9BIM/MAFRhnv9BIM/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20221110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221110T035606Z&X-Amz-Expires=25830&X-Amz-Signature=ca1aaa0c8cdcc9de91998d3a9293918e9bd623421da30016bfe76b4c485273dd&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2010%20Nov%202022%2011%3A06%3A36%20GMT' alt='Er'/>
               BUY PLAN</Button>

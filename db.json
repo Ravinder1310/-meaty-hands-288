@@ -1,56 +1,47 @@
 {
-    "slider":[
+    "trending":[
         {
-          "watch1": "https://www.zee5.com/web-series/details/tripling-season-3-watch-all-episodes-of-tripling-3-web-series-zee5/0-6-4z5230436",
-          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/app_cover/1920x770cd5550fd6fe64ed19f73339697501913a1ebe2567d824021883c08f193544046.jpg",
-          "title": "Tripling - Season 3",
-          "watch2": "https://www.zee5.com/myaccount/subscription",
-          "noSelect": "Buy Plan"
-        },
-        {
-          "watch1": "https://www.zee5.com/movies/details/raksha-bandhan/0-0-1z5228525",
-          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/app_cover/1920x7701789cd01c98a4b098ff87b399b61530c3e52cc15ff174f4689cc1ebefe5b40ff.jpg",
-          "title": "Raksha Bandhan",
-          "watch2": "https://www.zee5.com/myaccount/subscription",
-          "noSelect": "Buy Plan"
-        },
-        {
-          "watch1": "https://www.zee5.com/movies/details/bai-ji-kuttange/0-0-1z5246084",
-          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246084/app_cover/1920x7706643570fad7d4b018eb8ee595ee8f66a.jpg",
+          "watch2": "https://www.zee5.com/movies/details/bai-ji-kuttange/0-0-1z5246084",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246084/portrait/1920x7706643570fad7d4b018eb8ee595ee8f66a.jpg",
           "title": "Bai Ji Kuttange",
-          "watch2": "https://www.zee5.com/myaccount/subscription",
-          "noSelect": "Buy Plan"
+          "duration": "2h 5m",
+          "genre1": "Action",
+          "genre2": "Comedy"
         },
         {
-          "watch1": "https://www.zee5.com/movies/details/tadka/0-0-1z5246147",
-          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246147/app_cover/1920x7703c6105c0047c4e98848e930ff18b4e38.jpg",
-          "title": "Tadka",
-          "watch2": "https://www.zee5.com/myaccount/subscription",
-          "noSelect": "Buy Plan"
+          "watch2": "https://www.zee5.com/web-series/details/tripling-season-3-watch-all-episodes-of-tripling-3-web-series-zee5/0-6-4z5230436",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/portrait/1920x770cd5550fd6fe64ed19f73339697501913a1ebe2567d824021883c08f193544046.jpg",
+          "title": "Tripling - Season 3",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
         },
         {
-          "watch1": "https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366",
-          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-6-366/app_cover/1920x770017822e83c8c4f2f95aac896902b71be.jpg",
-          "title": "Kundali Bhagya",
-          "watch2": "",
-          "noSelect": ""
-        },
-        {
-          "watch1": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392",
-          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-6-3392/app_cover/1920x7707680c95e70a24006bd090c775c8000f5.jpg",
-          "title": "Bhagya Lakshmi",
-          "watch2": "",
-          "noSelect": ""
-        },
-        {
-          "watch1": "https://www.zee5.com/movies/details/karthikeya-2-hindi/0-0-1z5227565",
-          "image": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227565/app_cover/1920x7704ce388d5a6e74dac8ad9255657da588f.jpg",
+          "watch2": "https://www.zee5.com/movies/details/karthikeya-2-(hindi)/0-0-1z5227565",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227565/portrait/1920x7704ce388d5a6e74dac8ad9255657da588f.jpg",
           "title": "Karthikeya 2 (Hindi)",
-          "watch2": "https://www.zee5.com/myaccount/subscription",
-          "noSelect": "Buy Plan"
+          "duration": "2h 17m",
+          "genre1": "Action",
+          "genre2": "Adventure"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/khuda-haafiz-chapter-2:-agni-pariksha/0-0-1z5206274",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770485283887ce04c66a91f3e5dc0e20747.jpg",
+          "title": "Khuda Haafiz Chapter 2: Agni Pariksha",
+          "duration": "2h 19m",
+          "genre1": "Action",
+          "genre2": "Crime"
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/mukhbir-the-story-of-a-spy/0-6-4z5199975",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5199975/portrait/1920x77017b071bf12e24de89ab2650e35568fae.jpg",
+          "title": "Mukhbir - The Story of a Spy",
+          "duration": "",
+          "genre1": "",
+          "genre2": ""
         }
        ],
-    "trending":[
+       "trendingAll":[
         {
           "watch2": "https://www.zee5.com/movies/details/bai-ji-kuttange/0-0-1z5246084",
           "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246084/portrait/1920x7706643570fad7d4b018eb8ee595ee8f66a.jpg",
@@ -242,6 +233,639 @@
           "duration": "2h 19m",
           "genre1": "Adventure",
           "genre2": "Fantasy"
+        }
+       ],
+       "top10":[
+        {
+          "watch2": "https://www.zee5.com/movies/details/tadka/0-0-1z5246147",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246147/portrait/1920x7703c6105c0047c4e98848e930ff18b4e38.jpg",
+          "top10Numbers": 1,
+          "title": "Tadka"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/raksha-bandhan/0-0-1z5228525",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x7701789cd01c98a4b098ff87b399b61530c3e52cc15ff174f4689cc1ebefe5b40ff.jpg",
+          "top10Numbers": 2,
+          "title": "Raksha Bandhan"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/bimbisara/0-0-1z5234688",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234688/portrait/1920x770b60b8550ec184b5eae16b5b5a3ae4579301be9f1145b4c46a2a8ea62adf5b37a.jpg",
+          "top10Numbers": 3,
+          "title": "Bimbisara"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/karthikeya-2/0-0-1z5227557",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227557/portrait/1920x7708e66f35ad8484172a0796c13f18922c4.jpg",
+          "top10Numbers": 4,
+          "title": "Karthikeya 2"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/captain/0-0-1z5226617",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5226617/portrait/1920x770c0fb8727e1894eb3aba1cf889861317c.jpg",
+          "top10Numbers": 5,
+          "title": "Captain"
+        }
+       ],
+       "top10All":[
+        {
+          "watch2": "https://www.zee5.com/movies/details/tadka/0-0-1z5246147",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246147/portrait/1920x7703c6105c0047c4e98848e930ff18b4e38.jpg",
+          "top10Numbers": 1,
+          "title": "Tadka"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/raksha-bandhan/0-0-1z5228525",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x7701789cd01c98a4b098ff87b399b61530c3e52cc15ff174f4689cc1ebefe5b40ff.jpg",
+          "top10Numbers": 2,
+          "title": "Raksha Bandhan"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/bimbisara/0-0-1z5234688",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234688/portrait/1920x770b60b8550ec184b5eae16b5b5a3ae4579301be9f1145b4c46a2a8ea62adf5b37a.jpg",
+          "top10Numbers": 3,
+          "title": "Bimbisara"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/karthikeya-2/0-0-1z5227557",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227557/portrait/1920x7708e66f35ad8484172a0796c13f18922c4.jpg",
+          "top10Numbers": 4,
+          "title": "Karthikeya 2"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/captain/0-0-1z5226617",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5226617/portrait/1920x770c0fb8727e1894eb3aba1cf889861317c.jpg",
+          "top10Numbers": 5,
+          "title": "Captain"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/khuda-haafiz-chapter-2:-agni-pariksha/0-0-1z5206274",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770485283887ce04c66a91f3e5dc0e20747.jpg",
+          "top10Numbers": 6,
+          "title": "Khuda Haafiz Chapter 2: Agni Pariksha"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/forensic/0-0-1z5149852",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5149852/portrait/1920x770329e7efce50a434cb76540abee106a8c.jpg",
+          "top10Numbers": 7,
+          "title": "Forensic"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/janhit-mein-jaari-/0-0-1z5177236",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x77038551f46e9924100b57bd36b1739fe87.jpg",
+          "top10Numbers": 8,
+          "title": "Janhit Mein Jaari"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/bai-ji-kuttange/0-0-1z5246084",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246084/portrait/1920x7706643570fad7d4b018eb8ee595ee8f66a.jpg",
+          "top10Numbers": 9,
+          "title": "Bai Ji Kuttange"
+        },
+        {
+          "watch2": "https://www.zee5.com/movies/details/rrr/0-0-1z5145092",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5145092/portrait/1920x7705ce54e56eefd4b6985dc7f6e1593dffdf8a1b6bc4ede474fa16848ae0ace8d67.jpg",
+          "top10Numbers": 10,
+          "title": "RRR"
+        }
+       ],
+       "hindiEpisodes":[
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366/arjun-and-rishabh-get-nominated-for-a-business-award/0-1-6z5247937",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247937/list/00000263afa179b040b8456f956682237137a56d.jpg",
+          "noSelect": "Kundali Bhagya",
+          "showDuration": "E1373",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E1373"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392/virendra-gives-some-advice-to-neelam/0-1-6z5247724",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247724/list/0000017334d73a3bb29a4d589e02c50cad9e65d4.jpg",
+          "noSelect": "Bhagya Lakshmi",
+          "showDuration": "E394",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E394"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127/rhea-spies-on-siddharth/0-1-6z5247730",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247730/list/000000657efd01bd48d444a5a10a86b6a619ef43.jpg",
+          "noSelect": "Kumkum Bhagya",
+          "showDuration": "E2261",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E2261"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664/main-hoon-aparajita-november-11-2022/0-1-6z5247893",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247893/list/00000267998c7848361f41e1ac983b33a2630ed0.jpg",
+          "noSelect": "Main Hoon Aparajita",
+          "showDuration": "E44",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E44"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/pyar-ka-pehla-naam-radha-mohan/0-6-4z5130241/pyar-ka-pehla-naam-radha-mohan-november-11-2022/0-1-6z5247774",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247774/list/0000020338108771221a46f5bb1c1f12d887b3e0.jpg",
+          "noSelect": "Pyar Ka Pehla Naam: Radha Mohan",
+          "showDuration": "E171",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E171"
+        }
+       ],
+       "hindiEpisodesAll":[
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366/arjun-and-rishabh-get-nominated-for-a-business-award/0-1-6z5247937",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247937/list/00000263afa179b040b8456f956682237137a56d.jpg",
+          "noSelect": "Kundali Bhagya",
+          "showDuration": "E1373",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E1373"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392/virendra-gives-some-advice-to-neelam/0-1-6z5247724",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247724/list/0000017334d73a3bb29a4d589e02c50cad9e65d4.jpg",
+          "noSelect": "Bhagya Lakshmi",
+          "showDuration": "E394",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E394"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127/rhea-spies-on-siddharth/0-1-6z5247730",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247730/list/000000657efd01bd48d444a5a10a86b6a619ef43.jpg",
+          "noSelect": "Kumkum Bhagya",
+          "showDuration": "E2261",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E2261"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664/main-hoon-aparajita-november-11-2022/0-1-6z5247893",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247893/list/00000267998c7848361f41e1ac983b33a2630ed0.jpg",
+          "noSelect": "Main Hoon Aparajita",
+          "showDuration": "E44",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E44"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/pyar-ka-pehla-naam-radha-mohan/0-6-4z5130241/pyar-ka-pehla-naam-radha-mohan-november-11-2022/0-1-6z5247774",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247774/list/0000020338108771221a46f5bb1c1f12d887b3e0.jpg",
+          "noSelect": "Pyar Ka Pehla Naam: Radha Mohan",
+          "showDuration": "E171",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E171"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/meet/0-6-3510/meet-ahlawat-learns-neelams-true-identity/0-1-6z5247824",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247824/list/0000024459d27c1d8d834cdbb5807d49febf7096.jpg",
+          "noSelect": "Meet",
+          "showDuration": "E408",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E408"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kripa-maa-lakshmi-ki/0-6-4z5206497/menaka-sacrifices-food-and-water/0-1-6z5247938",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247938/list/00000187bb16cea555f04d31aa3a36c6ec3bae1a.jpg",
+          "noSelect": "Kripa Maa Lakshmi Ki",
+          "showDuration": "E93",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E93"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/ek-mahanayak-dr-b-r-ambedkar/0-6-2275/karuna-lies-to-jijabai/0-1-6z5247621",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247621/list/00000207c6de8712fa28401f976ffe2401b9d39a.jpg",
+          "noSelect": "Ek Mahanayak - Dr B R Ambedkar",
+          "showDuration": "E684",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E684"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/doosri-maa/0-6-4z5210380/krishna-sleeps-in-the-attic/0-1-6z5247701",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247701/list/00000232c3f3c456876f465aa56095d36a55bf5f.jpg",
+          "noSelect": "Doosri Maa",
+          "showDuration": "E39",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E39"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/love-se-zyada-love/0-6-4z5159930/someone-sneaks-into-the-sen-house/0-1-6z5247960",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247960/list/000004187362519e53f345ecbdbdccc810892e67.jpg",
+          "noSelect": "Love Se Zyada Love",
+          "showDuration": "E115",
+          "showDuration2": "11-Nov",
+          "episodeNumber": "E115"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366/arjun-decides-to-remarry-preeta/0-1-6z5247936",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247936/list/00000242645b15d6147d4cc5bbbf6f5e87c05d02.jpg",
+          "noSelect": "Kundali Bhagya",
+          "showDuration": "E1372",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E1372"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392/balwinder-hits-rishi-with-an-injection/0-1-6z5247726",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247726/list/00000136b40f45ae13d94ad59a7b062668041d13.jpg",
+          "noSelect": "Bhagya Lakshmi",
+          "showDuration": "E393",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E393"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127/prachi-tells-everyone-that-rhea-is-not-pregnant/0-1-6z5247729",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247729/list/00000083d8916c48b04249248af8374ce18d33fd.jpg",
+          "noSelect": "Kumkum Bhagya",
+          "showDuration": "E2260",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E2260"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664/disha-and-asha-plan-a-surprise-for-aparajita/0-1-6z5247897",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247897/list/00000265854e0b5b650a4ca1a6cdc09d52614ff5.jpg",
+          "noSelect": "Main Hoon Aparajita",
+          "showDuration": "E43",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E43"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/pyar-ka-pehla-naam-radha-mohan/0-6-4z5130241/mohan-saves-gungun-and-ketki/0-1-6z5247773",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247773/list/00000035b2f602998e37415485793cb1b0f3c7e6.jpg",
+          "noSelect": "Pyar Ka Pehla Naam: Radha Mohan",
+          "showDuration": "E170",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E170"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/meet/0-6-3510/laila-takes-meet-ahlawat-away/0-1-6z5247823",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247823/list/00000013a365b2a006d64b5a988a9af2b79c8aa0.jpg",
+          "noSelect": "Meet",
+          "showDuration": "E407",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E407"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/sanjog/0-6-4z5185799/gauri-creates-a-divide-between-tara-and-amrita/0-1-6z5247857",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247857/list/000001309cf712252adb48ff9b3c546cab3298f6.jpg",
+          "noSelect": "Sanjog",
+          "showDuration": "E61",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E61"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhabi-ji-ghar-par-hai/0-6-199/vibhuti-goes-on-a-hunger-strike/0-1-6z5247663",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247663/list/00000176e260bfaea13c481d81ae7ee041c2cf0c.jpg",
+          "noSelect": "Bhabi Ji Ghar Par Hai!",
+          "showDuration": "E1938",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E1938"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kripa-maa-lakshmi-ki/0-6-4z5206497/a-disguised-lakshmi-comes-on-the-earth/0-1-6z5247939",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247939/list/000003293616865a02f14f5ab057b1d315f0d1da.jpg",
+          "noSelect": "Kripa Maa Lakshmi Ki",
+          "showDuration": "E92",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E92"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/ek-mahanayak-dr-b-r-ambedkar/0-6-2275/ramji-suffers-from-terrible-headaches/0-1-6z5247620",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247620/list/000000184dc915a80c16450fbf646b98a6516ba1.jpg",
+          "noSelect": "Ek Mahanayak - Dr B R Ambedkar",
+          "showDuration": "E683",
+          "showDuration2": "10-Nov",
+          "episodeNumber": "E683"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392/balwinder-kidnaps-lakshmi/0-1-6z5247723",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247723/list/00000103e46114dc733f4a17bbf2eb261fe01d9e.jpg",
+          "noSelect": "Bhagya Lakshmi",
+          "showDuration": "E392",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E392"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127/alia-brings-mihika-to-the-ceremony/0-1-6z5247728",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247728/list/000000765f9cd1a1e910444db6b75642a2d2b842.jpg",
+          "noSelect": "Kumkum Bhagya",
+          "showDuration": "E2259",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E2259"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664/veer-talks-to-aparajita/0-1-6z5247892",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247892/list/000001960c7d19929762495cb5f3924795058754.jpg",
+          "noSelect": "Main Hoon Aparajita",
+          "showDuration": "E42",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E42"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/pyar-ka-pehla-naam-radha-mohan/0-6-4z5130241/mohan-helps-the-kids-leave-the-bus/0-1-6z5247772",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247772/list/00000079e787cf8343fa4ebf9bcaa8eb19791239.jpg",
+          "noSelect": "Pyar Ka Pehla Naam: Radha Mohan",
+          "showDuration": "E169",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E169"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/meet/0-6-3510/meet-and-meet-ahlawat-wait-for-neelam/0-1-6z5247820",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247820/list/00000247daec26667842484bb91fbcc2c987d8d8.jpg",
+          "noSelect": "Meet",
+          "showDuration": "E406",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E406"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/sanjog/0-6-4z5185799/gauri-sees-rajiv-and-rakshita-together/0-1-6z5247853",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247853/list/00000206a3a56162b709463996dec623a99121e6.jpg",
+          "noSelect": "Sanjog",
+          "showDuration": "E60",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E60"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhabi-ji-ghar-par-hai/0-6-199/happu-suspects-pelu/0-1-6z5247666",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247666/list/000002281a492997a2064ac796dd8fe4b8182f26.jpg",
+          "noSelect": "Bhabi Ji Ghar Par Hai!",
+          "showDuration": "E1937",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E1937"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/ek-mahanayak-dr-b-r-ambedkar/0-6-2275/jijabai-wins-the-case/0-1-6z5247619",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247619/list/000001235df338b79cbc4a2cad3ce76322531092.jpg",
+          "noSelect": "Ek Mahanayak - Dr B R Ambedkar",
+          "showDuration": "E682",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E682"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/happu-ki-ultan-paltan/0-6-1330/happu-craves-delicious-food/0-1-6z5247645",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247645/list/00000235de13c172bf6b419d8437119a4e1750af.jpg",
+          "noSelect": "Happu Ki Ultan Paltan",
+          "showDuration": "E888",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E888"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/love-se-zyada-love/0-6-4z5159930/anuradha-and-nirmala-help-karan/0-1-6z5247961",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247961/list/00000218517d77dba732413898cd44b37245cf57.jpg",
+          "noSelect": "Love Se Zyada Love",
+          "showDuration": "E113",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E113"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/doosri-maa/0-6-4z5210380/ashok-decides-to-leave-the-house/0-1-6z5247700",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247700/list/00000118baf9fdf4f69a45be8d288e391e9819e0.jpg",
+          "noSelect": "Doosri Maa",
+          "showDuration": "E37",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E37"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kripa-maa-lakshmi-ki/0-6-4z5206497/dhaneshwar-stops-lakshmi-puja/0-1-6z5247942",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247942/list/000001424d9cc65a69a1410ca2f8658b075a9d78.jpg",
+          "noSelect": "Kripa Maa Lakshmi Ki",
+          "showDuration": "E91",
+          "showDuration2": "09-Nov",
+          "episodeNumber": "E91"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366/arjun-risks-his-life-to-save-kavya/0-1-6z5247935",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247935/list/00000159939e519d04dc4202b1f9c69300567ac5.jpg",
+          "noSelect": "Kundali Bhagya",
+          "showDuration": "E1370",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E1370"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392/rishi-refuses-to-listen-to-malishka/0-1-6z5247725",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247725/list/00000130a854bff448b046c6b7475c1d8c672ff3.jpg",
+          "noSelect": "Bhagya Lakshmi",
+          "showDuration": "E391",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E391"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127/alia-wonders-about-prachis-engagement/0-1-6z5247731",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247731/list/0000013297c0fdb802ef470485888797c89d88a6.jpg",
+          "noSelect": "Kumkum Bhagya",
+          "showDuration": "E2258",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E2258"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664/aparajita-feels-that-chhavi-is-hiding-something/0-1-6z5247896",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247896/list/00000240be9aa4515dca468297b139a44781ca79.jpg",
+          "noSelect": "Main Hoon Aparajita",
+          "showDuration": "E41",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E41"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/pyar-ka-pehla-naam-radha-mohan/0-6-4z5130241/mohan-and-kadambari-to-do-rescue-operation/0-1-6z5247775",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247775/list/00000071d8366b11ae99437eb5a87355fab33a37.jpg",
+          "noSelect": "Pyar Ka Pehla Naam: Radha Mohan",
+          "showDuration": "E168",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E168"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/meet/0-6-3510/meets-plan-to-catch-neelam-red-handed/0-1-6z5247819",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247819/list/0000017492558c31142043358c61e98e296f79a7.jpg",
+          "noSelect": "Meet",
+          "showDuration": "E405",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E405"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/sanjog/0-6-4z5185799/gauri-creates-a-fight-between-tara-and-amrita/0-1-6z5247856",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247856/list/00000129915a78e59b1c4bfc998772c7e8a7e4ea.jpg",
+          "noSelect": "Sanjog",
+          "showDuration": "E59",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E59"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhabi-ji-ghar-par-hai/0-6-199/the-modern-colony-is-in-trouble/0-1-6z5247665",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247665/list/00000162bc4710bdd66247c5b7cb74da830578d7.jpg",
+          "noSelect": "Bhabi Ji Ghar Par Hai!",
+          "showDuration": "E1936",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E1936"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kripa-maa-lakshmi-ki/0-6-4z5206497/the-eldest-daughter-in-laws-pregnancy-makes-menaka-happy/0-1-6z5247944",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247944/list/00000130b24a00fbfc4747afa19daf442a71b9a2.jpg",
+          "noSelect": "Kripa Maa Lakshmi Ki",
+          "showDuration": "E90",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E90"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/ek-mahanayak-dr-b-r-ambedkar/0-6-2275/bhim-decides-to-fight-ramjis-case/0-1-6z5247618",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247618/list/000001505fa5615182ca41b7b492d437cea9d685.jpg",
+          "noSelect": "Ek Mahanayak - Dr B R Ambedkar",
+          "showDuration": "E681",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E681"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/happu-ki-ultan-paltan/0-6-1330/happu-feels-sad-to-eat-boiled-food/0-1-6z5247642",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247642/list/00000120216a658aacee4b969d9652b2862c3ff0.jpg",
+          "noSelect": "Happu Ki Ultan Paltan",
+          "showDuration": "E887",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E887"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/love-se-zyada-love/0-6-4z5159930/karan-tells-radhika-about-payals-antics/0-1-6z5247959",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247959/list/00000163263f4dd299334d51a8dcaaa1f617d671.jpg",
+          "noSelect": "Love Se Zyada Love",
+          "showDuration": "E112",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E112"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/doosri-maa/0-6-4z5210380/yashoda-brings-krishna-home/0-1-6z5247702",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247702/list/00000235c871fa16f7184c028980faa63f0da97b.jpg",
+          "noSelect": "Doosri Maa",
+          "showDuration": "E36",
+          "showDuration2": "08-Nov",
+          "episodeNumber": "E36"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366/the-luthras-struggle-to-save-kavyas-life/0-1-6z5247934",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247934/list/0000025451e9d2ce64544426b10d696bec46aa04.jpg",
+          "noSelect": "Kundali Bhagya",
+          "showDuration": "E1369",
+          "showDuration2": "07-Nov",
+          "episodeNumber": "E1369"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392/virendra-shouts-at-malishka/0-1-6z5244217",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5244217/list/00000011c7cd6a109438460b8fda02480642e238.jpg",
+          "noSelect": "Bhagya Lakshmi",
+          "showDuration": "E390",
+          "showDuration2": "07-Nov",
+          "episodeNumber": "E390"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127/prachi-anticipates-rheas-plan/0-1-6z5247732",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247732/list/000002021450d781a52a44b78155ed80984e4775.jpg",
+          "noSelect": "Kumkum Bhagya",
+          "showDuration": "E2257",
+          "showDuration2": "07-Nov",
+          "episodeNumber": "E2257"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664/chhavi-meets-with-veer/0-1-6z5247895",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247895/list/000000736d6a5f94bc694d19abea44eb236e7dbb.jpg",
+          "noSelect": "Main Hoon Aparajita",
+          "showDuration": "E40",
+          "showDuration2": "07-Nov",
+          "episodeNumber": "E40"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/pyar-ka-pehla-naam-radha-mohan/0-6-4z5130241/kadambari-takes-an-important-decision/0-1-6z5244270",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5244270/list/00000210738eea232f314a81b1a411cb59251927.jpg",
+          "noSelect": "Pyar Ka Pehla Naam: Radha Mohan",
+          "showDuration": "E167",
+          "showDuration2": "07-Nov",
+          "episodeNumber": "E167"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/meet/0-6-3510/meet-november-07-2022/0-1-6z5244315",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5244315/list/0000017079b7dfe6d39448ccbc7ead8684a09b4f.jpg",
+          "noSelect": "Meet",
+          "showDuration": "E404",
+          "showDuration2": "07-Nov",
+          "episodeNumber": "E404"
+        },
+        {
+          "watch2": "https://www.zee5.com/tv-shows/details/sanjog/0-6-4z5185799/taras-birthday-party/0-1-6z5247855",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-1-6z5247855/list/000001045cc6d66c7c7a490ab03893a666fcd5b2.jpg",
+          "noSelect": "Sanjog",
+          "showDuration": "E58",
+          "showDuration2": "07-Nov",
+          "episodeNumber": "E58"
+        }
+       ],
+       "webseries":[
+        {
+          "watch2": "https://www.zee5.com/web-series/details/tripling-season-3-watch-all-episodes-of-tripling-3-web-series-zee5/0-6-4z5230436",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/portrait/1920x770cd5550fd6fe64ed19f73339697501913a1ebe2567d824021883c08f193544046.jpg",
+          "top10Numbers": 1
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x7706e8d8d70922c434c94dd09c14ccc5d5b.jpg",
+          "top10Numbers": 2
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/duranga/0-6-4z5193948",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5193948/portrait/1920x7704ba850de7a8a410cb16fa2d7468d3e77.jpg",
+          "top10Numbers": 3
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/hello-world/0-6-4z5192239",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5192239/portrait/1920x770a78be5fdc4ef469fa04a1dbeaa702c2e.jpg",
+          "top10Numbers": 4
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/lalbazaar/0-6-2176",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2176/portrait/1920x770b9b395ce22814c99b8217672c0e7deb7.jpg",
+          "top10Numbers": 5
+        }
+       ],
+       "webSeriesAll":[
+        {
+          "watch2": "https://www.zee5.com/web-series/details/tripling-season-3-watch-all-episodes-of-tripling-3-web-series-zee5/0-6-4z5230436",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/portrait/1920x770cd5550fd6fe64ed19f73339697501913a1ebe2567d824021883c08f193544046.jpg",
+          "top10Numbers": 1
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x7706e8d8d70922c434c94dd09c14ccc5d5b.jpg",
+          "top10Numbers": 2
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/duranga/0-6-4z5193948",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5193948/portrait/1920x7704ba850de7a8a410cb16fa2d7468d3e77.jpg",
+          "top10Numbers": 3
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/hello-world/0-6-4z5192239",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5192239/portrait/1920x770a78be5fdc4ef469fa04a1dbeaa702c2e.jpg",
+          "top10Numbers": 4
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/lalbazaar/0-6-2176",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2176/portrait/1920x770b9b395ce22814c99b8217672c0e7deb7.jpg",
+          "top10Numbers": 5
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/the-broken-news/0-6-4z5145215",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b4100d873cc6547a8a4a4c92739160b3f.jpg",
+          "top10Numbers": 6
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/abhay/0-6-1298",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-1298/portrait/1920x770d9ead07e5b304a989d85cf8c6e0113fb.jpg",
+          "top10Numbers": 7
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/saas-bahu-achaar-pvt-ltd/0-6-4z5172356",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172356/portrait/1920x7709584469c57ec4547935b629b11da8504.jpg",
+          "top10Numbers": 8
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/vilangu/0-6-4z587336",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z587336/portrait/1920x770c5b0c7fe502948ca99a1853c913b0e876525aa775a3b43cabd9eb35f73439b5e.jpg",
+          "top10Numbers": 9
+        },
+        {
+          "watch2": "https://www.zee5.com/web-series/details/paper-rocket/0-6-4z5185904",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5185904/portrait/1920x770f7b87465b4004385a481f177826cbef8.jpg",
+          "top10Numbers": 10
         }
        ]
 }
