@@ -1,10 +1,10 @@
 import {Box,Image,Text,Grid} from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
 
-export default function Trending(){
+export default function HindiEpisodes(){
     const[data1,setData1] = useState([])
     const getData=async()=>{
-        let res = await fetch('http://localhost:5050/trending')
+        let res = await fetch('http://localhost:5050/hindiEpisodes')
         let data = await res.json()
         console.log(data)
         setData1(data)
