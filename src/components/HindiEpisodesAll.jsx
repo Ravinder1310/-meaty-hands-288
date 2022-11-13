@@ -20,7 +20,7 @@ export default function HindiEpisodesAll(){
             {
               data1.map(el=>{
                 return (
-                     <Box >
+                     <Box _hover={{border:'10px solid white'}}>
                      <Image borderRadius='10px' width={'100%'} src={el.image} alt='Error'/>
                      <Text value={el.noSelect}/>
                      </Box>
