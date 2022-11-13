@@ -1,7 +1,7 @@
 import {Box,Image,Text,Grid} from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
 
-export default function Trending(){
+export default function Top10All(){
     const[data1,setData1] = useState([])
     const getData=async()=>{
         let res = await fetch('http://localhost:5050/top10All')
@@ -20,7 +20,7 @@ export default function Trending(){
             {
               data1.map(el=>{
                 return (
-                     <Box >
+                     <Box _hover={{border:'10px solid white'}}>
                      <Image borderRadius='10px' width={'100%'} src={el.image} alt='Error'/>
                      <Text value={el.title}/>
                      </Box>

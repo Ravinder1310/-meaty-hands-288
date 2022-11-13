@@ -12,6 +12,9 @@ export default function Trending(){
     useEffect(() => {
       getData()  
     },[])
+    const handleClick = (link) => {
+      window.location.href=link;
+    }
 
 
     return (
@@ -20,8 +23,8 @@ export default function Trending(){
             {
               data1.map(el=>{
                 return (
-                     <Box >
-                     <Image borderRadius='10px' width={'100%'} src={el.image} alt='Error'/>
+                     <Box _hover={{border:'10px solid white'}} >
+                     <Image onClick={()=>handleClick(el.watch2)} borderRadius='10px' width={'100%'} src={el.image} alt='Error'/>
                      {/* <Text value={el.title}/> */}
                      </Box>
                 )

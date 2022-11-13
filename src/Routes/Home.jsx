@@ -6,6 +6,8 @@ import { Link } from 'react-router-dom';
 import Top10 from '../components/Top10';
 import HindiEpisodes from "../components/HindiEpisodes"
 import WebSeries from '../components/WebSeries';
+import Blockbuster from '../components/BlockBaster';
+import Footer from '../components/Footer';
 
 
 
@@ -14,10 +16,12 @@ export default function Home(){
         color:'#673ab7',
         fontSize:'25px'
     }
+   
     
     return (
         <>
         {/* <Navbar /> */}
+        <Box>
         <Slider />
         <Box display={'flex'} justifyContent='space-between' alignItems={'center'} paddingRight='100px'  marginTop={'30px'}>
         <Text textAlign={'left'} marginLeft='2%' fontSize='39px'>Trending Near You</Text>
@@ -47,6 +51,12 @@ export default function Home(){
         </Box>
         </Box>
         <WebSeries />
+        <Box display={'flex'} justifyContent='space-between' alignItems={'center'} paddingRight='100px'  marginTop={'30px'}>
+        <Text textAlign={'left'} marginLeft='2%' fontSize='39px'>Blockbuster Movies</Text>
+        </Box>
+        <Blockbuster />
+        </Box>
+        <Footer />
         </>
     )
     

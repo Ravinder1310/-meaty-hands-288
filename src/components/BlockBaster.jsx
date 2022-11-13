@@ -1,10 +1,10 @@
 import {Box,Image,Text,Grid} from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
 
-export default function WebSeries(){
+export default function Blockbuster(){
     const[data1,setData1] = useState([])
     const getData=async()=>{
-        let res = await fetch('http://localhost:5050/webSeries')
+        let res = await fetch('http://localhost:5050/blockbuster')
         let data = await res.json()
         console.log(data)
         setData1(data)
@@ -21,7 +21,7 @@ export default function WebSeries(){
               data1.map(el=>{
                 return (
                      <Box _hover={{border:'10px solid white'}}>
-                     <Image borderRadius='10px' width={'100%'} src={el.image} alt='Error'/>
+                     <Image borderRadius='10px' width={'100%'} src={el.B} alt='Error'/>
                      {/* <Text value={el.title}/> */}
                      </Box>
                 )

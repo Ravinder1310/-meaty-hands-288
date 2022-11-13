@@ -16,10 +16,11 @@ import {Box,
         Checkbox
             } from '@chakra-ui/react'
 import { Link } from 'react-router-dom'
-import {SearchIcon,HamburgerIcon} from '@chakra-ui/icons';
+import {SearchIcon,HamburgerIcon, DragHandleIcon} from '@chakra-ui/icons';
 import { useDisclosure } from '@chakra-ui/react';
 import React from 'react';
-import { Icon } from '@chakra-ui/react'
+import { Icon } from '@chakra-ui/react';
+
 // import { HamburgerIcon } from 'react-icons/md'
 
 
@@ -47,36 +48,30 @@ export default function Navbar(){
     return (
         <>
         
-    <Box display={'flex'} bgColor='black' p={'10px 20px'} gap='10px' >
-        <Image src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnQ-hevlu4PNKmw7VC_wHSw4wwa978MQAXw&usqp=CAU'
+    <Box display={'flex'} bgColor='black' p={'10px 20px'} gap='10px' position={'fixed'} zIndex='999' width='100%' justifyContent={'center'}>
+      <Link to={'/'}>
+      <Image src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnQ-hevlu4PNKmw7VC_wHSw4wwa978MQAXw&usqp=CAU'
          w={'100px'} h='70px' alignItems={'left'} alt='Error' bgColor={'blue'}/>
+      </Link>
+        
          <HStack gap={'150px'} marginLeft='30px'>
-          <Box display={'flex'} gap='35px' fontSize={'25px'} >
+          <Box display={'flex'} gap='35px' fontSize={'25px'} alignItems='center'>
             <Link style={style} to={'/'}>Home</Link>
             <Link style={style} to={'/tvshows'}>TVShows</Link>
             <Link style={style} to={'/movies'}>Movies</Link>
-            <Link style={style} to={'/disc'}>Disc</Link>
+            {/* <Link style={style} to={'/disc'}> */}
+            <Box>
+            <Icon as={DragHandleIcon} w={10} h={5} color='white.500' />
+            </Box>
+            {/* </Link> */}
 
           </Box>
           <Box display={'flex'} alignItems='center' gap={'10px'}>
             <Box display={'flex'} >
-            <IconButton
-              colorScheme='blue'
-              aria-label='Search database'
-              variant='outline'
-              p={'16px 16px'}
-              border='1px solid white'
-              // borderTopLeftRadius='10px'
-              // borderBottomLeftRadius='10px'
-              size='lg'
-              icon={<SearchIcon />}
-/>
             <Input w={'390px'} 
             placeholder="Search for Movies,Shows,Channels etc." 
             color={'grey'} fontSize='20px' p={'22px 20px'} 
             bgColor={'#0f0617'}
-            // borderTopRightRadius='10px'
-            // borderBottomRightRadius='10px'
             border='1px solid white'
             // marginLeft={'-10px'}
             />
@@ -123,11 +118,10 @@ export default function Navbar(){
              </ModalContent>
            </Modal>
            </Box>
-            <Box border={'1px solid white'} padding='7px 15px' fontSize={'20px'} borderRadius='10px'>
+            <Box border={'1px solid white'} padding='7px 15px' fontSize={'20px'} borderRadius='10px' >
             <Link style={style} to='/login'>Login</Link>
             </Box>
-            <Button bgColor='#673ab7' border={'transparent'} color='white' padding='23px 15px' fontSize={'22px'}>
-              <Image width={'32px'} marginRight='5px' h='26px' src='https://media-private.canva.com/v9BIM/MAFRhnv9BIM/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20221110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221110T035606Z&X-Amz-Expires=25830&X-Amz-Signature=ca1aaa0c8cdcc9de91998d3a9293918e9bd623421da30016bfe76b4c485273dd&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2010%20Nov%202022%2011%3A06%3A36%20GMT' alt='Er'/>
+            <Button bgColor='#673ab7' border={'transparent'} color='white' padding='23px 15px' fontSize={'22px'} width='40%' _hover={{color:'black',bgColor:'white'}}>
               BUY PLAN</Button>
               <Icon as={HamburgerIcon} color='white' fontSize={'40px'}/>
           </Box>
